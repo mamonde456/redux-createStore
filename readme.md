@@ -2,12 +2,12 @@
 
 #### 파일 구성
 
-📦redux
-┣ 📂js
-┃ ┣ 📜createStore.js
-┃ ┗ 📜main.js
-┣ 📜index.html
-┗ 📜readme.md
+📦redux<br>
+┣ 📂js<br>
+┃ ┣ 📜createStore.js<br>
+┃ ┗ 📜main.js<br>
+┣ 📜index.html<br>
+┗ 📜readme.md<br>
 
 ### 실행 방법
 
